@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_image_icon</name>
+   <tag></tag>
+   <elementGuidId>dad51b1e-880d-45e3-b99e-625eb8298c13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[1]/td[6]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault.css-1ubaxvd-MuiAvatar-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.MuiBox-root > .MuiAvatar-root >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f6a7a70-dfbc-4eea-8f4a-19fa2360b71d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1ubaxvd-MuiAvatar-root</value>
+      <webElementGuid>ad01731e-89c7-4030-911e-f60e5922a47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>c</value>
+      <webElementGuid>73c2f0ef-df84-4b4a-8e4e-cd29b74680dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-fgti7a&quot;]/div[@class=&quot;MuiBox-root css-y8t3k5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-e2ivvl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1h15ts-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-afbxdw&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiTableContainer-root css-1y8r1j9-MuiTableContainer-root&quot;]/table[@class=&quot;MuiTable-root css-1r4at57-MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root css-apqrd9-MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root css-n3cyd2-MuiTableRow-root&quot;]/td[@class=&quot;MuiBox-root css-poa3an&quot;]/div[@class=&quot;MuiBox-root css-1tqqhim&quot;]/div[@class=&quot;MuiBox-root css-8nlfdg&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1ubaxvd-MuiAvatar-root&quot;]</value>
+      <webElementGuid>d8e57e80-e5d1-4057-b679-a6c8d26fb673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div/div/div/div[2]/div/div[2]/table/tbody/tr/td[6]/div/div/div</value>
+      <webElementGuid>9812141d-3e0f-47e4-bfd6-38eda2202736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoạt động'])[2]/following::div[3]</value>
+      <webElementGuid>35ab29e4-74d6-42ca-918f-bb67ca2ab425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fs'])[1]/following::div[6]</value>
+      <webElementGuid>66dc14fe-a1e7-4da6-844f-18ca276a3135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dd'])[1]/preceding::div[5]</value>
+      <webElementGuid>d72c1e57-84c0-4ab8-9722-1442aa33aa99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dd'])[2]/preceding::div[6]</value>
+      <webElementGuid>d905b962-891f-4043-b02d-e5335a74b2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='c']/parent::*</value>
+      <webElementGuid>2d9457d4-9e89-4e03-afc7-f5f53d8cb887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/div</value>
+      <webElementGuid>b58c0d5f-256f-4463-8497-1f54c9770d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'c' or . = 'c')]</value>
+      <webElementGuid>a0dc835f-f3db-4eac-9242-6840cc4ee27e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

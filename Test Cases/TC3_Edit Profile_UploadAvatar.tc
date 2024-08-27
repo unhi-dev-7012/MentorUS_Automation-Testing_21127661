@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Edit Profile_UploadAvatar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a400950-a690-4416-98fc-3d1eb4d8b413</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6be9b69-06f3-41ae-bd6b-ef3c3a0265a8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7906ef0e-2adf-4e77-9759-b186d6af775a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6be9b69-06f3-41ae-bd6b-ef3c3a0265a8</id>
+      <masked>false</masked>
+      <name>image</name>
+   </variable>
+   <variable>
+      <defaultValue>'thành công'</defaultValue>
+      <description></description>
+      <id>7906ef0e-2adf-4e77-9759-b186d6af775a</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

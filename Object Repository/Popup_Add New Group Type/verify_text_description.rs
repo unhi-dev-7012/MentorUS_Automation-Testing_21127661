@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_text_description</name>
+   <tag></tag>
+   <elementGuidId>fdd78ab4-a358-4994-b48e-d248399b4e5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[1]/td[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td >> internal:has-text=&quot;fs&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a2e30e1-538b-4af8-8529-af1e16339e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1tqqhim</value>
+      <webElementGuid>3ace30af-42ce-49a5-8aa5-fd3f1d0cf3d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>fs </value>
+      <webElementGuid>9d664c37-0404-431d-89ec-c0bc881dc6a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-fgti7a&quot;]/div[@class=&quot;MuiBox-root css-y8t3k5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-e2ivvl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1h15ts-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-afbxdw&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiTableContainer-root css-1y8r1j9-MuiTableContainer-root&quot;]/table[@class=&quot;MuiTable-root css-1r4at57-MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root css-apqrd9-MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root css-n3cyd2-MuiTableRow-root&quot;]/td[@class=&quot;MuiBox-root css-8tybi8&quot;]/div[@class=&quot;MuiBox-root css-1tqqhim&quot;]</value>
+      <webElementGuid>8addd079-bb74-4d87-ad80-36b831524904</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div/div/div/div[2]/div/div[2]/table/tbody/tr/td[4]/div</value>
+      <webElementGuid>9e23ff33-0f20-43d1-8490-6d3a8427a139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='âff'])[1]/following::div[1]</value>
+      <webElementGuid>bb3f7389-3462-4f64-ae3c-f5d587f66f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biểu tượng'])[1]/following::div[5]</value>
+      <webElementGuid>4d3e255e-4028-4790-bc1b-9f207aee6292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoạt động'])[2]/preceding::div[2]</value>
+      <webElementGuid>2ec6e49b-a7c9-4c81-92a0-e20175ec1ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div</value>
+      <webElementGuid>b209dfbe-2175-4cbd-a550-31e9db9b1875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'fs ' or . = 'fs ')]</value>
+      <webElementGuid>f9b4c4a7-10ef-43c5-a2f3-218b04eed7ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

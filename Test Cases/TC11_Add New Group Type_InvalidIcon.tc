@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_Add New Group Type_InvalidIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86439bfd-b736-4a40-a4c1-391509e0f148</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3edef70b-6cb6-4a8a-84e3-5c1dac1bd02f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ae1b66c-6960-4331-aeb1-49f18a1fb1e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84cd42ce-581b-455d-b0a3-3fa36a053ba2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab8a835d-5c0b-47ac-90e7-9370f83df8f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3edef70b-6cb6-4a8a-84e3-5c1dac1bd02f</id>
+      <masked>false</masked>
+      <name>typeName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ae1b66c-6960-4331-aeb1-49f18a1fb1e4</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84cd42ce-581b-455d-b0a3-3fa36a053ba2</id>
+      <masked>false</masked>
+      <name>icon</name>
+   </variable>
+   <variable>
+      <defaultValue>'nhỏ hơn'</defaultValue>
+      <description></description>
+      <id>ab8a835d-5c0b-47ac-90e7-9370f83df8f0</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

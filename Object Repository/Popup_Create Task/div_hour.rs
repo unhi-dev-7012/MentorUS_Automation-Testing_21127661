@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hour</name>
+   <tag></tag>
+   <elementGuidId>ce374582-9b3f-48fa-b2ee-4ee69ba5f452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[3]/div/div/div/div[2]/div/div/div/div)[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiClock-squareMask.css-de3exi-MuiClock-squareMask</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.MuiClock-squareMask</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a250c59b-88bf-46ba-b6b5-02fbc2a122b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiClock-squareMask css-de3exi-MuiClock-squareMask</value>
+      <webElementGuid>23990895-4319-4d4c-89f6-988ac37af02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-3dah0e-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-1sep8xo-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-1dur2uz-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiDialogContent-root css-1t5dqkx-MuiDialogContent-root&quot;]/div[@class=&quot;MuiPickersLayout-root css-1st8yxe-MuiPickersLayout-root&quot;]/div[@class=&quot;MuiPickersLayout-contentWrapper css-16b5y55-MuiPickersLayout-contentWrapper&quot;]/div[@class=&quot;MuiTimeClock-root css-eegpc0-MuiTimeClock-root&quot;]/div[@class=&quot;MuiClock-root css-1j9v0by-MuiClock-root&quot;]/div[@class=&quot;MuiClock-clock css-4f0ona-MuiClock-clock&quot;]/div[@class=&quot;MuiClock-squareMask css-de3exi-MuiClock-squareMask&quot;]</value>
+      <webElementGuid>4b907898-1184-4d0a-a9dd-891b84195761</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>9cc78cde-6dde-4dd4-bad2-416c80055e88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

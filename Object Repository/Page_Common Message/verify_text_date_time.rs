@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_text_date_time</name>
+   <tag></tag>
+   <elementGuidId>a8264376-15b4-4b88-8fc9-5641b05f3809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/p)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tới hạn 17:28, ngày 17/08/2024&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c3749062-a2a3-43f6-a899-81cd822e1025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 !text-sm !text-[#888] !line-clamp-1 self-center css-1dx2ob-MuiTypography-root</value>
+      <webElementGuid>6ef92976-f09a-43d2-9857-0f05b3d7664d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tới hạn 17:28, ngày 17/08/2024</value>
+      <webElementGuid>99f0714d-61ec-43f7-9864-459e5a6069bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-pad2pl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-973qre-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true !h-full !max-w-full !min-h-full css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;bg-slate-200 h-full flex flex-col justify-between&quot;]/div[@id=&quot;scrollableDiv&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component pb-4 pt-4 gap-y-4&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;meeting-message-container MuiBox-root css-0&quot;]/div[@class=&quot;bg-white rounded-lg !min-w-[70%] !max-w-[70%] p-4 cursor-pointer MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-hjzeja&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 !text-sm !text-[#888] !line-clamp-1 self-center css-1dx2ob-MuiTypography-root&quot;]</value>
+      <webElementGuid>322e56c6-144a-4055-b3b1-cf1102657c48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/div/div/div/div/p</value>
+      <webElementGuid>030cec30-0009-4068-b864-f9f64d6f70aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hehehe'])[1]/following::p[1]</value>
+      <webElementGuid>401cfed1-c3a4-414a-b823-128c0facc9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::p[4]</value>
+      <webElementGuid>b338dbb7-06d4-4307-a6b2-18b81099dbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ẻgbtr'])[1]/preceding::p[2]</value>
+      <webElementGuid>69c60953-a751-4d73-9796-94ccacd86f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='qqwf'])[1]/preceding::p[5]</value>
+      <webElementGuid>d8fed040-43ac-4067-a67c-291c66eea614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tới hạn']/parent::*</value>
+      <webElementGuid>03c27da8-61ed-4ba8-8401-b3428a9be5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/p</value>
+      <webElementGuid>f178e2bc-8f47-4f02-933e-a3e4c71d266f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Tới hạn 17:28, ngày 17/08/2024' or . = 'Tới hạn 17:28, ngày 17/08/2024')]</value>
+      <webElementGuid>04cb3348-8ec3-4de9-9550-b0c22c07d688</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1</name>
+   <tag></tag>
+   <elementGuidId>bf7ac736-feca-4897-8cd2-7feea8b3ef04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.MuiImageListItem-root.MuiImageListItem-standard.css-k7l9vz-MuiImageListItem-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=/^m$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>30a670b2-ae20-4bf4-92af-5b3b86810ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiImageListItem-root MuiImageListItem-standard css-k7l9vz-MuiImageListItem-root</value>
+      <webElementGuid>262dddfd-26a7-4113-8f6c-e0c5c5cd2381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>m</value>
+      <webElementGuid>884b5f7a-59d7-487f-a793-a66bf48e8fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-n5fs5b&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-10e16op-MuiPaper-root-MuiCard-root&quot;]/ul[@class=&quot;MuiImageList-root MuiImageList-standard css-rvv586-MuiImageList-root&quot;]/li[@class=&quot;MuiImageListItem-root MuiImageListItem-standard css-k7l9vz-MuiImageListItem-root&quot;]</value>
+      <webElementGuid>36e95bb5-3b0c-425e-bf67-af440bf08a69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biểu tượng mặc định'])[1]/following::li[1]</value>
+      <webElementGuid>9805162e-aec4-4344-aa0f-f3935dfeb900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn biểu tượng'])[1]/following::li[1]</value>
+      <webElementGuid>1df05d97-f3c9-4835-ab7f-8c4712eb8881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='m'])[2]/preceding::li[1]</value>
+      <webElementGuid>1ca27f1c-2604-4893-bba4-44010f348e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li</value>
+      <webElementGuid>c8a3e39b-04e8-46f5-aa18-b483f900660f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'm' or . = 'm')]</value>
+      <webElementGuid>a738892e-1fdf-48c6-8301-129e0b886a77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

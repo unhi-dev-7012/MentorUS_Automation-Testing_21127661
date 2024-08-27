@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_popup</name>
+   <tag></tag>
+   <elementGuidId>1398aaff-04c7-411c-aa59-1a43667af087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.group-modal__container.MuiBox-root.css-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Thêm mới loại nhómTên loại nhóm (*)Mô tảBiểu tượng (*)ceditQuyền ứng dụngcheckXá&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>458632d1-63b8-4bd6-8e94-6b70e37dd24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group-modal__container MuiBox-root css-0</value>
+      <webElementGuid>e8cc74d6-5d3c-4ac9-9be2-c1584f699678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1dc6f227-05bd-4bfe-b6e2-68113e79fa11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm mới loại nhómTên loại nhóm (*)​Mô tả​Biểu tượng (*)ceditQuyền ứng dụng​checkXác nhậncloseHủy</value>
+      <webElementGuid>a2eb1de3-003e-4d2c-a3a5-b8f3eadb96e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-0&quot;]</value>
+      <webElementGuid>76f6386c-d3bc-4661-824d-e5354f5ebe14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[4]</value>
+      <webElementGuid>df166f34-87c0-46ef-99b4-bb3679d760d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>129e34a5-3098-4960-9d6c-c181ebea6917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thêm mới loại nhómTên loại nhóm (*)​Mô tả​Biểu tượng (*)ceditQuyền ứng dụng​checkXác nhậncloseHủy' or . = 'Thêm mới loại nhómTên loại nhóm (*)​Mô tả​Biểu tượng (*)ceditQuyền ứng dụng​checkXác nhậncloseHủy')]</value>
+      <webElementGuid>3867fdb9-b9f6-4794-9f40-41b768fecc13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

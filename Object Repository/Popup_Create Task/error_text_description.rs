@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error_text_description</name>
+   <tag></tag>
+   <elementGuidId>233c9552-e530-4331-a83f-ddcadcfcdd76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mô tả không được vượt quá 250 ký tự&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fe7093aa-2f9c-4d02-8c16-dee8d1989c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained MuiFormHelperText-filled css-o1ds8i-MuiFormHelperText-root</value>
+      <webElementGuid>b69da18d-aa7a-49d0-866e-b5f41c6408c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:rhk:-helper-text</value>
+      <webElementGuid>4afe53c0-6743-4a16-8adb-3e009de0072a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mô tả không được vượt quá 250 ký tự</value>
+      <webElementGuid>d82cdd3e-a771-4041-a664-06b232092a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rhk:-helper-text&quot;)</value>
+      <webElementGuid>cfe3c743-cfda-418e-82c3-6a1347748ca8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':rhk:-helper-text']</value>
+      <webElementGuid>971e7a39-8988-452f-93ac-18f6642f0938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả'])[2]/following::p[1]</value>
+      <webElementGuid>a1e3d03f-6305-4c07-a8ad-c973d919678f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả'])[1]/following::p[1]</value>
+      <webElementGuid>34015c3b-6f4b-45df-a41e-d05a20f6a7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tới hạn lúc (*)'])[1]/preceding::p[1]</value>
+      <webElementGuid>c85e7556-2618-492a-9551-45f89a9d5ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tới hạn lúc (*)'])[2]/preceding::p[1]</value>
+      <webElementGuid>9d3a9759-09d2-4b61-a2d7-572ac1abfdd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mô tả không được vượt quá 250 ký tự']/parent::*</value>
+      <webElementGuid>c97d8582-cc7e-4bd3-9f5b-4a4b5a5bd1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/p</value>
+      <webElementGuid>6ded6743-6d51-4adc-9879-e97444508f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':rhk:-helper-text' and (text() = 'Mô tả không được vượt quá 250 ký tự' or . = 'Mô tả không được vượt quá 250 ký tự')]</value>
+      <webElementGuid>dab5450f-0013-4936-bec5-74ed75c7e71a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_groupTypeManagement</name>
+   <tag></tag>
+   <elementGuidId>bd2c3f46-aace-4bd4-b39c-ad99786ed94a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/ul/a[2]/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-2r9v8s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Quản lý loại nhóm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b80640d-0caa-4ebb-80dd-62e8f2a0a068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-2r9v8s</value>
+      <webElementGuid>e5243382-37c8-4d42-bdbf-1693c2aed18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>categoryQuản lý loại nhóm</value>
+      <webElementGuid>f7b9f9cc-73f3-4949-8388-215feb2492a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1gk2xzy-MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1ioqvny-MuiPaper-root-MuiDrawer-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-n4phvm-MuiList-root&quot;]/a[@class=&quot;active&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-padding css-1l9osrx-MuiListItem-root&quot;]/div[@class=&quot;MuiBox-root css-2r9v8s&quot;]</value>
+      <webElementGuid>14f10ef9-0e0c-46b4-a33b-63ca6e077410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/ul/a[2]/li/div</value>
+      <webElementGuid>91b4db7d-4970-45c2-817d-8d2ef7dc36eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý nhóm'])[1]/following::div[1]</value>
+      <webElementGuid>10677623-09c0-4bd1-aeaf-a7c01facb8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhắn tin'])[1]/following::div[4]</value>
+      <webElementGuid>095a2637-0008-4731-962a-877f3122ded5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý điểm số'])[1]/preceding::div[4]</value>
+      <webElementGuid>f465c026-c56c-458d-8f01-db5f1fc829d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/li/div</value>
+      <webElementGuid>2bae1ee5-fbaf-423a-9b6b-2ba3073b67b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'categoryQuản lý loại nhóm' or . = 'categoryQuản lý loại nhóm')]</value>
+      <webElementGuid>77755ee9-2c1d-419e-8bbf-6b49eb3674af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_4_Navigate To Messaging Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c000934-f503-49ff-bf4c-d5b064a4820e</testCaseGuid>
+</TestCaseEntity>

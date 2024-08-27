@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error_text_time</name>
+   <tag></tag>
+   <elementGuidId>d368f1f0-810c-4e02-a97c-0acddf34b4a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[1]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Thời hạn phải lớn hơn thời gian hiện tại&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e67efdc0-4e16-4097-ab66-0d51ebc5f386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained MuiFormHelperText-filled css-o1ds8i-MuiFormHelperText-root</value>
+      <webElementGuid>883b8774-38f3-42a4-ad82-36c95d941be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r5c:-helper-text</value>
+      <webElementGuid>4911d2de-ac8c-454e-8b85-01fbeafe106f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thời hạn phải lớn hơn thời gian hiện tại</value>
+      <webElementGuid>59a2d926-ab89-466f-855e-9c87f6752c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r5c:-helper-text&quot;)</value>
+      <webElementGuid>a082eafa-fafb-4ddd-bd80-a08bbc0f3241</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r5c:-helper-text']</value>
+      <webElementGuid>faa81982-546b-42a9-a376-088943539e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tới hạn lúc (*)'])[2]/following::p[1]</value>
+      <webElementGuid>7536faa0-6a0f-4df3-90f3-d612cfdee482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tới hạn lúc (*)'])[1]/following::p[1]</value>
+      <webElementGuid>50344ec2-5106-4cac-9d61-f26f4aa9be03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày (*)'])[1]/preceding::p[1]</value>
+      <webElementGuid>c107cbbf-2faf-4bec-8803-b253e59a08ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày (*)'])[2]/preceding::p[1]</value>
+      <webElementGuid>cd66ae3e-3a34-471e-ae7c-a5efb52e8487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thời hạn phải lớn hơn thời gian hiện tại']/parent::*</value>
+      <webElementGuid>4c5c0b86-2e8b-44fd-a73b-d2879d1d3077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/p</value>
+      <webElementGuid>10182af2-b301-4f1a-995f-48301d7eb025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r5c:-helper-text' and (text() = 'Thời hạn phải lớn hơn thời gian hiện tại' or . = 'Thời hạn phải lớn hơn thời gian hiện tại')]</value>
+      <webElementGuid>78be5ff2-ef25-44fd-aac1-ac4ed5aa560d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

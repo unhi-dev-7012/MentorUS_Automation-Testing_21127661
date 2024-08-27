@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_delete_all_assignees</name>
+   <tag></tag>
+   <elementGuidId>dad3c2b6-46c5-497f-8001-f064f092e6e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.MuiAutocomplete-clearIndicator.css-1l0271r-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-clearIndicator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Xóa hết&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92b35dff-846d-433c-8bbf-1567e34f2026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-clearIndicator css-1l0271r-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-clearIndicator</value>
+      <webElementGuid>f85dcb2d-4517-45d8-b138-f1d20dbefd88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b5ea8cfa-ef0b-44fd-94be-e8de1f11035a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2b3d5dcc-f441-4218-a838-a274bde2bc36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Xóa hết</value>
+      <webElementGuid>4a30e9a0-ecce-4555-b446-9ab3130284b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Xóa hết</value>
+      <webElementGuid>073f9fe0-9124-468a-ae0b-506523d89588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-zw3mfo-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-1sep8xo-MuiDialog-container&quot;]/form[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth !px-2 css-16z3t49-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiDialogContent-root !py-4 css-9igssw-MuiDialogContent-root&quot;]/div[@class=&quot;MuiAutocomplete-root Mui-expanded Mui-focused MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon !mt-2 css-4u8706-MuiAutocomplete-root&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1qi4im9-MuiFormControl-root-MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth Mui-focused MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-1di4za5-MuiInputBase-root-MuiOutlinedInput-root&quot;]/div[@class=&quot;MuiAutocomplete-endAdornment css-p1olib-MuiAutocomplete-endAdornment&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-clearIndicator css-1l0271r-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-clearIndicator&quot;]</value>
+      <webElementGuid>7d5c01ab-86ba-4581-a60a-d69b59ba91c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>275f1ba7-0dbd-404f-9926-0dd5d0e4296a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minh Huy'])[1]/following::button[1]</value>
+      <webElementGuid>1a48addf-2576-4619-9322-125db40b05d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khang Hy'])[1]/following::button[1]</value>
+      <webElementGuid>e91cd8eb-6b44-4aa0-8b5b-3f1758218f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giao công việc (*)'])[2]/preceding::button[2]</value>
+      <webElementGuid>3685a6e1-f869-4631-a431-d1b5fd4dca71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[1]/preceding::button[2]</value>
+      <webElementGuid>5c24c585-bb6c-40b3-907e-58a3f6f39807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>fffcd076-174b-4f11-ae57-67cb18bc696d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Xóa hết']</value>
+      <webElementGuid>b080adc2-1158-45bf-81c1-da643dba4eb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

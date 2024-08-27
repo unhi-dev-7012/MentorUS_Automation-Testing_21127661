@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_3_Navigate To Group Type Management Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>677e17f9-afb3-40e8-b304-60e4c942138d</testCaseGuid>
+</TestCaseEntity>

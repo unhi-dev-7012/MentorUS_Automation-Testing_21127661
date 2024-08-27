@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_2_Navigate to Common Channel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e62ed638-567b-4fb5-84dc-b1e63d6c88a8</testCaseGuid>
+</TestCaseEntity>

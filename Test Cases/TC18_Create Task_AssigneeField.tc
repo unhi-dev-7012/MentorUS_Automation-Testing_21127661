@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18_Create Task_AssigneeField</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76f84eb0-7f6c-4f33-8060-de92d42f229e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d78eaa7-cd9f-471d-b70f-7b066d9dd554</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>47583905-84c8-451f-b962-f17f99369ec7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c7bdc39-7998-46e9-92ca-ce2864a8985e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b66fe96f-14eb-40f1-ba5d-67ba291dc324</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d78eaa7-cd9f-471d-b70f-7b066d9dd554</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47583905-84c8-451f-b962-f17f99369ec7</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>8c7bdc39-7998-46e9-92ca-ce2864a8985e</id>
+      <masked>false</masked>
+      <name>assignees</name>
+   </variable>
+   <variable>
+      <defaultValue>'thành công'</defaultValue>
+      <description></description>
+      <id>b66fe96f-14eb-40f1-ba5d-67ba291dc324</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
